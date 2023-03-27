@@ -1,1 +1,2 @@
 # javacalculator
+This calculator program takes in two numbers and an operator (+, -, *, /) from the user, performs the specified arithmetic operation, and displays the result. The Scanner class is used to read input from the user, and the switch statement is used to handle different cases based on the operator. Note that this is a very basic implementation and does not handle error cases, such as division by zero.
